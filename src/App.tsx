@@ -40,7 +40,7 @@ function App() {
         <div className="text-center mb-8">
           <div className="flex items-center justify-center mb-4">
             <img 
-              src="/public/1.png" 
+              src="/1.png" 
               alt="Wedding Music Consultation Logo" 
               className="h-16 md:h-20 w-auto"
             />
